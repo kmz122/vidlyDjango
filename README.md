@@ -1,0 +1,2 @@
+# vidlyDjango
+django testing proj
